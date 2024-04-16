@@ -1,0 +1,181 @@
+html{
+    margin:0;
+    padding:0;
+    
+}
+
+
+body{
+    background-color: rgba(80, 207, 239, 0.259);
+}
+#img0 {
+    width: 28px;
+    
+}
+#navbar {
+    background-color: rgba(20, 149, 248, 0.173);
+    padding: 10px;
+}
+.list{
+    display: inline;
+    padding: 100px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.list-link {
+    text-decoration: none;
+    color: black;
+}
+.list-link:hover {
+    padding: 10px;
+   background-color: rgba(16, 112, 245, 0.479);
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    padding:20px;
+    color: #0826ebe3;
+    
+    font-family: Arial, Helvetica, sans-serif;    
+}
+#container {
+    margin-top: 60px;
+    background-image: url(img/cielo-004.jpg);
+    border-radius: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+#weather {
+            font-size: 20px;
+            color: grey;
+            margin-bottom: 70px;
+            margin-left: 100px;
+            padding: 10px;
+            height: 30px;
+            width: 80%;    
+}
+
+#ris {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+    border-radius: 40px;
+    font-size: 30px;
+    width: 50%;
+    color: white;
+    background-color: rgba(12, 187, 245, 0.22);
+    
+}
+#search {
+    height: 50px;
+    width: 60px;
+    font-size: 15px; 
+    font-weight: bold;   
+}
+
+#img1{
+    height:30px;
+    width:30px;
+}
+
+.reg{
+    border: 1px solid grey;
+    display: inline-block;
+    width: 5%;
+    margin-left:15% ;
+    padding-left: 10px;
+    padding-right: 80px;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+    
+}
+.link{
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.reg:hover{
+    background-color:#ff8c00;
+    
+}
+
+#sun{
+    width: 40px;
+}
+#cloudy {
+    width: 40px;
+
+}
+#cloud {
+    width: 70px;
+}
+
+#container-cards{
+    width: auto;
+    height: auto;
+    margin-top: 40px;
+}
+#card1{
+    float: left;
+    width:28%;
+    height: auto;
+    margin-left: 170px;
+    margin-right: 50px;
+    border-radius: 30px;
+}
+#card2{
+    display: inline-block;
+    width:34.5%;
+    height: auto;
+    margin-left: 70px;
+    margin-right: 40px;
+    border-radius: 30px;
+}
+#previsioni {
+    width: 350px;
+    height: 200px;
+    border-radius: 30px;
+}
+#carta {
+    width: 430px;
+    height: 270px;
+    border-radius: 30px;
+}
+
+p, h3{
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif
+}
+#tab{
+    margin-top: 80px;
+}
+table {
+    background-color: rgba(3, 196, 250, 0.177);
+    margin-left: 65px;
+}
+caption{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    font-size: 25px;
+    color: rgba(5, 5, 194, 0.756);
+    padding:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#copy{
+      color: rgb(89, 86, 86);
+}
